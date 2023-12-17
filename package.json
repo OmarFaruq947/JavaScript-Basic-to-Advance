@@ -1,0 +1,26 @@
+{
+  "name": "javascript-basic-to-advance",
+  "version": "1.0.0",
+  "description": "JavaScript Interview Questions & Answers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmarFaruq947/JavaScript-Basic-to-Advance.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Md.Omar faruq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmarFaruq947/JavaScript-Basic-to-Advance/issues"
+  },
+  "homepage": "https://github.com/OmarFaruq947/JavaScript-Basic-to-Advance#readme",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
